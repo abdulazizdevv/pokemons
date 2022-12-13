@@ -20,4 +20,5 @@ function renderPokemon(pokemons) {
   }
   cartoonList.innerHTML = res;
 }
+
 renderPokemon(pokemons);
